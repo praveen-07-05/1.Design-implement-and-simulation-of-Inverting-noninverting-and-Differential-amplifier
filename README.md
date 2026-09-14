@@ -78,7 +78,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
   **CIRCUIT DIAGRAM**
 
 
-img width="900" height="1600" alt="b7414696-dceb-4a76-ac52-ba13117baf5c" src="https://github.com/user-attachments/assets/0529f571-fdca-4178-b08e-29843b06b9da" />
+<img width="900" height="1600" alt="b7414696-dceb-4a76-ac52-ba13117baf5c" src="https://github.com/user-attachments/assets/0529f571-fdca-4178-b08e-29843b06b9da" />
 
   **MODEL GRAPH:**
   **TABULATION:**
